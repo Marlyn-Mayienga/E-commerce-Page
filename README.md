@@ -14,7 +14,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://marlyn-mayienga.github.io/E-commerce-Page/)
 
 
 ## Getting Started
